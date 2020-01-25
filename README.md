@@ -34,5 +34,5 @@ namespace ConsoleApplication6
     }
 }  Console.Write(" " + i);
 
-
+# foss
 
