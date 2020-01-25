@@ -32,7 +32,7 @@ namespace ConsoleApplication6
   //creating an Array
         }
     }
-}
+}  Console.Write(" " + i);
 
 
 
