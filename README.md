@@ -30,7 +30,7 @@ namespace ConsoleApplication6
             }
             Console.ReadKey();
 
-
+//Sorting and Reversing the array elements
         }
     }
 }
