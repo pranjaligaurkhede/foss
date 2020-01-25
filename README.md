@@ -29,8 +29,7 @@ namespace ConsoleApplication6
                 Console.WriteLine();
             }
             Console.ReadKey();
-
-
+  //creating an Array
         }
     }
 }
